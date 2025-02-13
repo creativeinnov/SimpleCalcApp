@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="header">Calculator</string>
+    <string name="text1">Enter first number</string>
+    <string name="text2">Enter second number</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">x</string>
+    <string name="div">/</string>
+    <string name="equal">=</string>
+    <string name="ac">AC</string>
+    <string name="result">Result</string>
+</resources>
